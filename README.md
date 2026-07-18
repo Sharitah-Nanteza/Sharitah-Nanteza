@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Sharitah-Nanteza/Sharitah-Nanteza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nanteza, a frontend development intern developer @Codveda Technologies where i build responsive and user friendly web interfaces, develop web applications, write clean maintainable and reusable code and learning front end development best practices.
 
-Here are some ideas to get you started:
+I am currently a software engineering and AI student at @Turing College, where am being taught python, software engineering principles,APIS,LLMS ,AI and more while building projects and improving my problem solving sklls.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies.
+-Python
+-Javascript
+-HTML
+-CSS
+-Git
+-GitHub
+-VS Code
+-Node.js
+-Mongo DB
+-Vue
+-Tailwind CSS
+-Figma
+-Bootstrap
+
+Outside of work, I'm interested in following the developments of science,finance and health. I also love coding as i listen to country and hip pop music.
+
+Let's connect!
+https://www.linkedin.com/in/sharitah-nanteza-3754713a3/
