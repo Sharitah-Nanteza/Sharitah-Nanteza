@@ -1,25 +1,21 @@
-Hi there 👋
+## Hi there 👋
 
-I'm Nanteza, a frontend development intern developer @Codveda Technologies where i build responsive and user friendly web interfaces, develop web applications, write clean maintainable and reusable code and learning front end development best practices.
+I'm **Nanteza**, a frontend development intern developer at [@Codveda Technologies](https://github.com/Codveda-Technologies) where I build responsive and user-friendly web interfaces, develop web applications, write clean, maintainable, and reusable code, and learn front-end development best practices.
 
-I am currently a software engineering and AI student at @Turing College, where am being taught python, software engineering principles,APIS,LLMS ,AI and more while building projects and improving my problem solving sklls.
+I am currently a software engineering and AI student at [@Turing College](https://github.com/TuringCollege), where I'm learning Python, software engineering principles, APIs, LLMs, AI, and more while building projects and improving my problem-solving skills.
 
-Technologies;
--Python
--Javascript
--HTML
--CSS
--Git
--GitHub
--VS Code
--Node.js
--Mongo DB
--Vue
--Tailwind CSS
--Figma
--Bootstrap
+---
 
-Outside of work, I'm interested in following the developments of science,finance and health. I also love coding as i listen to country and hip pop music.
+### 🛠️ Technologies & Tools
+* **Languages:** Python, JavaScript, HTML, CSS
+* **Frameworks & Libraries:** Vue, Node.js, Tailwind CSS, Bootstrap
+* **Databases:** MongoDB
+* **Tools:** Git, GitHub, VS Code, Figma
 
-Let's connect!
-https://www.linkedin.com/in/sharitah-nanteza-3754713a3/
+---
+
+### 🎵 Outside of Work
+I'm deeply interested in following developments across science, finance, and health. You can also frequently find me coding away while listening to country and hip-hop music.
+
+### Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharitah-nanteza-3754713a3/)
