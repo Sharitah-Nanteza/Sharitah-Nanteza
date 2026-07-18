@@ -4,7 +4,7 @@ I'm Nanteza, a frontend development intern developer @Codveda Technologies where
 
 I am currently a software engineering and AI student at @Turing College, where am being taught python, software engineering principles,APIS,LLMS ,AI and more while building projects and improving my problem solving sklls.
 
-Technologies.
+Technologies;
 -Python
 -Javascript
 -HTML
