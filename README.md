@@ -14,7 +14,7 @@ I'm currently studying Software Engineering and AI at Turing College, where I'm 
 
 ---
 
-###🌱 Beyond Coding
+🌱 Beyond Coding
 I'm interested in how technology can solve practical problems, particularly across health, finance, and other areas that affect people's everyday lives. I'm also always exploring new technologies and ideas outside my current projects.
 
 ### Let's connect!
