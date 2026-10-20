@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm **Nanteza**, a frontend development intern developer at [@Codveda Technologies](https://github.com/Codveda-Technologies) where I build responsive and user-friendly web interfaces, develop web applications, write clean, maintainable, and reusable code, and learn front-end development best practices.
+I'm a Software Engineering & AI student with hands-on experience in front-end development. I completed a front-end development internship at Codveda Technologies, where I worked on responsive, user-friendly web interfaces and strengthened my practical development skills.
 
-I am currently a software engineering and AI student at [@Turing College](https://github.com/TuringCollege), where I'm learning Python, software engineering principles, APIs, LLMs, AI, and more while building projects and improving my problem-solving skills.
+I'm currently studying Software Engineering and AI at Turing College, where I'm developing my skills in Python, APIs, LLMs, and AI while building practical projects and improving my problem-solving skills.
 
 ---
 
