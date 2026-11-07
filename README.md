@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Software Engineering & AI student with hands-on experience in front-end development. I completed a front-end development internship at Codveda Technologies, where I worked on responsive, user-friendly web interfaces and strengthened my practical development skills.
+I'm  an Aspiring Software & AI Engineer with hands-on experience in front-end development. I completed a front-end development internship at Codveda Technologies, where I worked on responsive, user-friendly web interfaces and strengthened my practical development skills.
 
 I'm currently studying Software Engineering and AI at Turing College, where I'm developing my skills in Python, APIs, LLMs, and AI while building practical projects and improving my problem-solving skills.
 
